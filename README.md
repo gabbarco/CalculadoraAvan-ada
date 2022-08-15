@@ -1,3 +1,3 @@
 # CalculadoraAvancada
 
-Calculadora que possui três tipos de funcionamentos: básico, científico e avançado.
+Calculadora cientifica avancada que possui 11 diferentes tipos de operacoes a serem realizadas pelo usuário.
